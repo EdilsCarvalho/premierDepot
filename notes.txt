@@ -1,0 +1,5 @@
+/c/Users/tessa/.ssh/
+
+The key fingerprint is:
+SHA256:UrnFw+TFjIv9AxUJeswH6jWlOqouWe9WTSXWOfLk/dM edils.carvalho@gmail.com
+
